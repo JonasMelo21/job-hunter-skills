@@ -1,0 +1,879 @@
+data_coleta,titulo,empresa,local,link,senioridade,tech_stack,educacao,tipo,soft_skills,cloud,linguas,descricao_raw
+2026-01-04,Data Engineer,CodeRoad Inc,Brazil,https://www.linkedin.com/jobs/view/4345788565,Pleno/Sênior (Mínimo 4+ anos de experiência),"['SQL (Relacional)', 'Python', 'Scala (Desejável/Plus)', 'Databricks', 'Apache Spark', 'Data Pipeline Architecture', 'ETL/ELT (Extraction, Transformation, Loading)', 'Big Data Pipelines (Streams e Batches)', 'Data Structures/Metadata Management']",N/A,"Contrato (Contractor), 100% Remoto (LATAM)","['Habilidade Analítica', 'Resolução de Problemas (Root Cause Analysis)', 'Trabalho em Equipe', 'Comunicação com Stakeholders', 'Gestão de Times (Nice to have)']","['Azure Technologies', 'Azure Data Factory', 'Azure Synapse']",['Inglês (Avançado B2-C1)'],"Sobre a vaga
+Data Engineer
+The Team
+ We are a leading software provider of Item Chain Management solutions to consumer brand, retail and industrial enterprises around the globe. We also provide development services and support to third-party customers across the globe. 
+The Data Engineer must be comfortable working virtually as part of one or more customer engagements, with customers located in multiple geographies, and be willing to adjust schedules to meet the specific project's needs.
+
+Location: LATAM (Remote)
+Time Zone: Team operates on U.S. East/West Coast hoursHow you’ll make an impact:
+Create and maintain optimal data pipeline architecture.
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and Azure technologies.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+Work with stakeholders including to assist with data-related technical issues and support their data infrastructure needs.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+Work with data and analytics experts to strive for greater functionality in our data systems.
+
+Minimum requirements:
+Advanced English B2-C1 (spoken and written)
+4+ years as a Data Engineer experience building processes supporting data transformation, data structures, metadata, dependency, and workload management.
+Analytics frameworks and languages, such as: Databricks, Python (Scala is a plus)
+Familiar with big data tools: Apache Spark, Data Factory or Synapse. 
+Big Data pipelines via Streams and/or Batches.
+Experience Relational SQL .
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Experience leading teams nice to have.
+
+What you’ll love:
+100% Remote
+Contractor position available for Latin American candidates
+Holidays Off
+Paid Time Off
+Health insurance assistance program.
+Competitive Pay (USD)
+Excellent teamwork and work environment
+Training"
+2026-01-04,Azure Data Engineer,MSH,Brazil,https://www.linkedin.com/jobs/view/4326001824,Pleno/Sênior (3 a 6 anos de experiência),"['Azure Data Factory (ADF)', 'SQL (Consultas Complexas)', 'Performance Tuning (SQL)', 'Python (Preferencial)', 'ETL/ELT Scripting', 'Data Modeling', 'Version Control', 'CI/CD', 'Orchestration', 'Metadata Management', 'Data Partitioning', 'Azure Synapse (Preferencial)', 'Databricks (Preferencial)', 'Spark (Preferencial)', 'BI/Analytics']",N/A,Remoto (Full-Time Implícito),"['Comunicação', 'Colaboração', 'Análise', 'Resolução de Problemas (Problem-solving)']","['Azure', 'Azure SQL Database', 'Azure Cosmos DB', 'Azure Storage Services', 'Azure Security', 'Azure Networking', 'RBAC (Role-Based Access Control)']",['Inglês (Implícito - Horário EST/CST)'],"Sobre a vaga
+Azure Data Engineer
+Location: 100% Remote (EST/CST work hours)
+
+Responsibilities:
+Design and develop scalable data pipelines and data integration solutions using Azure Data Factory.
+Build, optimize, and maintain data workflows moving structured and semi-structured data into Azure SQL, Cosmos DB, and other Azure storage services.
+Develop data transformation logic (SQL, Python preferred) to support reporting, analytics, and downstream applications.
+Ensure data quality, reliability, and performance across ingestion and transformation layers.
+Collaborate with data analysts, data scientists, and business stakeholders to understand data needs and translate them into scalable engineering solutions.
+Monitor pipeline performance, troubleshoot failures, and implement long-term fixes.
+Implement best practices for version control, CI/CD, pipeline monitoring, and operational excellence in a cloud environment.
+Maintain documentation for data flows, pipeline logic, and architecture.
+
+Qualifications:
+3 to 6 years of experience in Data Engineering with hands-on work in Azure cloud environments.
+Strong proficiency with Azure Data Factory and SQL-based data transformation.
+Experience with Azure Cosmos DB, Azure SQL Database, and related Azure storage technologies.
+Strong SQL skills including complex queries, performance tuning, and data modeling concepts.
+Experience handling large-scale data sets and building reliable ingestion/processing pipelines.
+Solid understanding of data engineering fundamentals including data partitioning, orchestration, error handling, and metadata management.
+Excellent analytical and problem-solving capabilities.
+Strong communication skills and ability to work cross-functionally.
+
+Preferred Skills:
+Experience with Python for ETL/ELT scripting.
+Exposure to Azure Synapse, Databricks, or Spark (nice to have but not required).
+Understanding of Azure security, networking, and role-based access controls.
+Background in data modeling and BI/analytics environments."
+2026-01-04,Data Engineer,"Pyramid Consulting, Inc",Brazil,https://www.linkedin.com/jobs/view/4343219413,Senior/Especialista (Requer proficiência em 'Expert-level SQL' e experiência com arquitetura de dados e DevOps),"['Python', 'SQL (Expert Level)', 'Data Lakes', 'Lakehouses', 'Data Hubs', 'Kafka', 'AWS Glue', 'Iceberg', 'Parquet', 'Streaming Architectures', 'Flink', 'dbt', 'Airflow', 'SCD (Slowly Changing Dimensions)', 'Schema Evolution', 'Spark', 'Spark UI (Tuning/Debugging)', 'DevOps', 'CI/CD', 'Code Management']",N/A,N/A,"['Data Governance', 'Data Quality', 'Data Privacy', 'Data Security']",['AWS'],[],"Sobre a vaga
+Familiarity with major cloud platforms (AWS)Experience with modern data architectures (data lakes, lakehouses, hubs)Proficiency in ingestion tools (Kafka, AWS Glue) and formats (Iceberg, Parquet)Knowledge of streaming architectures and tools (Kafka, Flink)Strong background in SQL-based frameworks and orchestration tools (dbt, Glue, Airflow). Experience with SCD and schema evolutionFamiliarity with Spark for transformation, streaming, tuning, debugging with Spark UIProficient in Python. Expert-level SQLDemonstrated experience in DevOps practices (code management, CI/CD, deployment)Understanding of governance principles (quality, privacy, security)"
+2026-01-04,Senior Data Engineer,Qubika,Brazil,https://www.linkedin.com/jobs/view/4342211998,Senior,"['Python', 'SQL', 'Spark', 'Airflow', 'DBT', 'Databricks', 'BigQuery', 'Redshift', 'Delta Lake', 'PostgreSQL', 'S3', 'Parquet', 'Kafka', 'Kinesis', 'Docker', 'Kubernetes', 'Terraform', 'Git', 'ETL/ELT', 'Data Warehousing', 'Distributed Systems', 'CI/CD', 'IaC (Infrastructure as Code)', 'DevOps practices', 'Real-time data streaming (Nice to Have)', 'Machine learning workflows (Nice to Have)']",N/A (Requer 5+ anos de experiência na área),Data Engineering,"['Colaboração', 'Solução de Problemas', 'Trabalho em equipes multifuncionais', 'Comunicação (Escrita e Verbal)', 'Proatividade em ambientes dinâmicos', 'Experiência com consultoria/cliente (Nice to Have)']","['AWS', 'Google Cloud (GCP)', 'Azure']",['Inglês'],"Sobre a vaga
+We’re looking for experienced and passionate Senior Data Engineers to join our growing team and work on cutting-edge data solutions for a variety of clients across industries. If you're someone who thrives in dynamic environments and enjoys building scalable, reliable, and high-performance data infrastructure, we’d love to hear from you.
+
+What You'll Do
+Design, build, and maintain robust data pipelines and ETL processes to support data integration from diverse sources.
+Collaborate with data scientists, analysts, and other engineers to define data models, architecture, and best practices.
+Optimize data workflows for performance, scalability, and cost-efficiency.
+Ensure data quality, security, and governance across systems.
+Work with modern cloud platforms to deploy and manage data solutions.
+Troubleshoot complex issues and continuously improve data systems.
+
+Tech Stack (varies by project, but may include):
+Languages: Python
+Database: SQL
+Data: Spark, Airflow, DBT, Databricks
+Data Storage: BigQuery, Redshift, Delta Lake, PostgreSQL, S3, Parquet
+Cloud Platforms: AWS, Google Cloud (GCP), Azure
+Tools & Technologies: Kafka, Kinesis, Docker, Kubernetes, Terraform, Git.
+
+What We're Looking For
+5+ years of experience in Data Engineering or similar roles.
+Strong programming skills in Python and SQL (others are a plus).
+Hands-on experience with building and maintaining ETL/ELT pipelines.
+Solid understanding of data warehousing concepts and distributed systems.
+Experience with cloud services (AWS, GCP, or Azure).
+Experience working with Databricks in production environments.
+Familiarity with CI/CD, infrastructure as code, and DevOps practices.
+Excellent problem-solving skills and ability to work in cross-functional teams.
+Strong communication in English (written and verbal).
+
+Nice to Have
+Experience in real-time data streaming.
+Familiarity with machine learning workflows.
+Previous consulting or client-facing experience.
+
+We have multiple open Data Engineering positions with varying technical requirements depending on the project or client. If this description aligns with your experience, we encourage you to apply — we might have the perfect fit for you!"
+2026-01-04,Data Engineer,Insight Global,Brazil,https://www.linkedin.com/jobs/view/4329818405,Mid-Sênior (2-5+ Anos),"['Python', 'SQL', 'Data Warehouses', 'Relational Databases', 'NoSQL', 'Query Optimization', 'Data Pipelines', 'ETL Tools', 'CI/CD', 'YAML', 'PowerShell', 'Terraform']",N/A,Remoto (CLT),"['Comunicação (Verbal e Escrita)', 'Trabalho em Equipe', 'Proatividade Técnica']","['Azure', 'Azure Databricks', 'Azure Data Factory (ADF)', 'ADLS (Azure Data Lake Storage)', 'Azure SQL', 'Azure Synapse']",['Inglês'],"Sobre a vaga
+This is a fully remote position working for a US client, CLT model and salary range of 16k-20k BRL/mo.
+
+Required Skills & Experience
+
+2-5+ Year of experience in Data Engineering
+Use Python or SQL for engineering and scientific calculations
+Proven technology champion in working with relational, Data warehouses databases, query authoring (SQL) as well as working familiarity with a variety of databases
+Experience/Knowledge in working with NoSQL databases and can create E2E pipelines.
+Experienced in building and optimizing complex queries
+Proven Experience in working with any one of the data engineering technologies like ADLS, Azure Databricks, ADF, Azure SQL, Synapse
+
+Nice to Have Skills & Experience
+
+Previously created or enhanced CI/CD build and releases pipelines
+Experience in working with scripting languages such as YAML, PowerShell, Terraform
+Certification in Azure
+
+Job Description
+
+A US client of Insight Global is looking for an Azure Data Engineer to join their team. This person will be assisting the team to create a data warehouse back bone from end-to-end and working with the architect to streamline all processes. Duties will involve creating data pipelines and queries, writing SQL queries from scratch, comparing data, writing analysis, extracting data from existing databases, utilizing Azure Databricks, and working with ETL tools. Both verbal and written communication is a must as this person will be required to work with multiple teams throughout the organization."
+2026-01-04,Engenheiro(a) de Dados – Databricks,UPBI Data & AI,Brazil,https://www.linkedin.com/jobs/view/4343688056,Sólida (Pleno a Sênior),"['Databricks', 'Spark', 'PySpark', 'SQL', 'Pipelines de Dados', 'ETL/ELT', 'Modelagem de Dados para Analytics (Bronze, Silver, Gold)', 'Delta Lake', 'Data Lake/Lakehouse', 'Orquestração de Dados', 'Governança e Qualidade de Dados', 'Versionamento (Engenharia de Dados)']",N/A,PJ (Pessoa Jurídica) | Híbrido,"['Comunicação', 'Consultoria Técnica', 'Interface com Times de Negócio', 'Otimização de Performance', 'Contribuição com Boas Práticas']",['Azure'],[],"Sobre a vaga
+Engenheiro(a) de Dados – Databricks
+
+Modelo híbrido | 3x por semana presencial Bela Vista/SP 2x home office | PJ
+
+A UpBI Data & AI é uma empresa especializada em Dados, Analytics e Inteligência Artificial, atuando em projetos estratégicos para grandes clientes. Buscamos um(a) Engenheiro(a) de Dados com forte experiência em Databricks, para atuar na construção e evolução de plataformas analíticas modernas em ambientes corporativos complexos.
+
+Responsabilidades:
+
+Projetar, desenvolver e manter pipelines de dados escaláveis e performáticos utilizando Databricks.
+Atuar na ingestão, transformação e disponibilização de dados em ambientes analíticos e de BI.
+Trabalhar com grandes volumes de dados, garantindo qualidade, governança e confiabilidade das informações.
+Desenvolver soluções de dados utilizando Spark (PySpark/SQL).
+Integrar múltiplas fontes de dados (estruturadas e semi-estruturadas).
+Apoiar times de Analytics, BI e Data Science no consumo dos dados.
+Participar ativamente de projetos de clientes, atuando como consultor técnico e parceiro do negócio.
+Contribuir com boas práticas de engenharia de dados, versionamento, documentação e otimização de performance.
+
+Requisitos Obrigatórios:
+
+Experiência sólida como Engenheiro(a) de Dados.
+Experiência prática com Databricks em ambiente produtivo.
+Domínio de Spark / PySpark e SQL.
+Experiência com modelagem de dados para Analytics (camadas bronze, silver e gold ou conceitos similares).
+Conhecimento em pipelines de dados, ETL/ELT.
+Experiência em ambientes de nuvem (preferencialmente Azure).
+Capacidade de atuar em consultoria, com boa comunicação e interface com times técnicos e de negócio.
+Disponibilidade para atuação híbrida (3x por semana presencial) no bairro Bela Vista – São Paulo/SP.
+
+Requisitos Desejáveis:
+
+Experiência com Delta Lake.
+Conhecimento em Data Lake / Lakehouse.
+Experiência com ferramentas de orquestração de dados.
+Vivência em projetos de BI, Analytics ou Data Science.
+Conhecimentos em boas práticas de governança e qualidade de dados.
+
+Modelo de Contratação:
+
+Regime PJ
+Modelo híbrido: 3 dias presenciais por semana, 2x home office
+Local: Bela Vista – São Paulo/SP"
+2026-01-04,Azure Data Engineer,Penta Consulting,Brazil,https://www.linkedin.com/jobs/view/4342917446,Data Architect / Sênior (Com experiência comprovada),"['ETL/ELT', 'Data Architecture Design (End-to-End)', 'Big Data Processing', 'Analytics Workflows', 'Machine Learning Concepts', 'Data Modeling', 'Data Warehousing', 'Data Governance', 'Microsoft Fabric', 'DevOps', 'CI/CD', 'Infrastructure-as-Code']",N/A,Remoto no Brasil (Serviços e Workshops),"['Comunicação Profissional (Escrita e Oral)', 'Orientação a Clientes Premier Enterprise', 'Habilidade de Workshop/Treinamento']","['Microsoft Azure', 'Azure Data Factory', 'Azure Data Lake', 'Azure Databricks', 'Azure SQL', 'Azure Machine Learning (Azure ML)', 'Azure Foundry']","['Português', 'Inglês (Profissional Escrito e Oral)']","Sobre a vaga
+We are currently looking for a Portuguese speaking Data Engineer to work across Microsoft Azure solutions in delivering proactive services and workshops to premier enterprise customers in remotely in Brazil. 
+
+Key Responsibilities
+Design and implement end-to-end data architecture solutions on Microsoft Azure.
+Develop and manage ETL/ELT pipelines using Azure Data Factory.
+Architect and optimize Data Lake storage solutions for structured and unstructured data.
+Leverage Azure Databricks for big data processing, analytics, and machine learning workflows.
+Integrate Azure Machine Learning models into data pipelines and business applications.
+Design and maintain Azure SQL databases, ensuring performance, scalability, and security.
+
+Required Skills & Qualifications
+Professional English written and oral communication
+Proven experience as a Data Architect or similar role in a cloud-first environment.
+Strong proficiency in Azure Foundry, Data Factory, Data Lake, Databricks, and Azure SQL.
+Experience with Microsoft Fabric and its integration into enterprise data platforms.
+Solid understanding of machine learning concepts and deployment in Azure ML.
+Expertise in data modeling, data warehousing, and data governance.
+Familiarity with DevOps practices, CI/CD pipelines, and infrastructure-as-code.
+
+If you are interested in working with premier enterprise businesses across The Americas, then please apply!
+
+Successful candidates will be contacted within 2 weeks of applying"
+2026-01-04,Machine Learning Engineer,Canals,Brazil,https://www.linkedin.com/jobs/view/4343344309,Sênior (Senior-level Machine Learning Engineer),"['Python', 'scikit-learn', 'PyTorch', 'TensorFlow', 'Pandas', 'Spark', 'Data Pipelines Escaláveis', 'Desenvolvimento e Deploy de Modelos ML em Produção', 'MLOps (Plus)']",N/A,"Full-time, Remoto (Américas do Norte e do Sul)","['Liderança Técnica e Mentoria', 'Revisão de Código (Code Review) e Feedback Arquitetural', 'Propriedade (Ownership) de Projetos End-to-End', 'Colaboração Interdisciplinar', 'Foco em Qualidade, Performance e Reprodutibilidade', 'Trabalho Autônomo em Ambientes Dinâmicos (Fast-paced)']",[],['Inglês'],"Sobre a vaga
+About Canals
+
+Canals is a fully remote, profitable startup transforming the industrial supply chain ($10T industry) with AI. Our platform seamlessly integrates with the systems distributors already use, automating tedious tasks and reducing failure points in moving physical goods across the globe.
+
+We’re a 70-person team (~45 in engineering), located across North and South America.
+
+The Role
+
+Our customer base is expanding fast, and AI is central to how we scale and deliver value. We’re looking for a senior-level Machine Learning Engineer who can move quickly while maintaining high quality, owning end-to-end ML pipelines while shaping product features that deliver real-world impact.
+
+What You’ll Do
+
+Design, build, and maintain scalable machine learning models that improve and automate logistics processes for our customers. 
+Own projects end-to-end, from problem definition and data exploration to model deployment and monitoring in production. 
+Collaborate closely with engineering teams to align ML work with customer needs and deliver features that drive business value. 
+Serve as a technical leader and mentor within the ML area, reviewing code and ensuring best practices for reproducibility, quality, and performance. 
+Evaluate and implement tools and frameworks to improve our ML infrastructure and workflows. 
+Help shape the future of Canals as we continue scaling with our customers. 
+
+What You'll Bring
+
+Senior-level experience building and deploying machine learning models in production environments. 
+Experience designing scalable data pipelines and working with large datasets. 
+Comfort taking ownership of projects and ensuring models deliver real, measurable customer value. 
+Strong Python skills with knowledge of ML frameworks (e.g., scikit-learn, PyTorch, TensorFlow) and data tools (e.g., Pandas, Spark). 
+Ability to guide and unblock others, providing thoughtful code reviews and architectural feedback. 
+Experience working independently in a fast-paced, product-focused environment. 
+Previous experience in high-growth startups or small teams is a plus. 
+Familiarity with MLOps practices and tools is a plus. 
+
+Why Join Canals
+
+We're profitable: stability without the chaos of venture pivots. 
+Real-world impact: your work improves global supply chains, saving customers time and reducing waste. 
+Strong engineering culture: we invest in quality and documentation to keep moving fast sustainably. 
+Culture of ownership: moving fast while putting quality first
+Remote-first, flexible work environment across North and South America. 
+Stellar product-market fit with tons of customer love
+All star team with diverse backgrounds to collaborate with and learn from
+
+Canals.ai is an equal opportunity employer. In addition to EEO being the law, it is a policy that is fully consistent with our principles. All qualified applicants will receive consideration for employment without regard to status as a protected veteran or a qualified individual with a disability, or other protected status such as race, religion, color, national origin, sex, sexual orientation, gender identity, genetic information, pregnancy or age."
+2026-01-04,Machine Learning Engineer,JetBridge AI,Brazil,https://www.linkedin.com/jobs/view/4346860266,Senior IC (Individual Contributor) / Machine Learning Engineer,"['Python', 'Pandas', 'NumPy', 'scikit-learn', 'SQL', 'XGBoost', 'LightGBM', 'Predictive Modeling', 'Anomaly Detection', 'Time Series Analysis', 'Forecasting', 'Feature Engineering', 'Model Evaluation', 'Model Interpretability (SHAP-style analysis)']",N/A,Full-Time,"['Independência', 'Forte Intuição Estatística', 'Colaboração (Parceria com times de produto e analytics)', 'Orientação a Insights Acionáveis']",[],['Inglês'],"Sobre a vaga
+Build a drug access platform for a fast-growing, profitable health-tech company, where your machine learning models directly detect and prevent drug-access failures, helping millions of insured Americans actually receive the medications their benefits promise.
+
+We’re hiring a Machine Learning Engineer to work on applied predictive modeling and anomaly detection across complex, high-volume healthcare program data. This is a hands-on, senior IC role focused on turning messy real-world signals into clear, actionable insights that improve medication access across the U.S. healthcare system.
+
+Unlike academic or toy ML problems, the work here sits directly in the flow of patient access: identifying failures in drug affordability programs, surfacing non-obvious breakdowns in benefit usage, and enabling teams to intervene before patients abandon treatment.
+
+What You’ll Do
+- Build predictive models (forecasting, time series, trend analysis) on real-world program and financial data.
+- Design anomaly / outlier detection to surface risks, inefficiencies, and non-obvious patterns.
+- Own feature engineering, model evaluation, and interpretability (feature importance, SHAP-style analysis).
+- Work end-to-end from exploration → modeling → business-facing insights.
+- Partner with product and analytics teams to turn models into decisions.
+
+Must-Have
+- 4–7 years as ML Engineer or Applied Data Scientist
+- Strong predictive modeling + anomaly detection background
+- Hands-on experience with messy, high-volume financial or program data
+- Strong statistical intuition (not just fitting models)
+- Python with Pandas / NumPy / scikit-learn
+- Comfortable operating independently as a senior IC
+
+Nice to Have
+- U.S. healthcare-adjacent data (insurance, benefits, copay, utilization)
+- Experience in compliance-aware environments (HIPAA-constrained data)
+- Translating models into dashboards, reports, or exec-ready insights
+- XGBoost / LightGBM, solid SQL
+
+Explicitly Not Required
+- MLOps ownership or DevOps work
+- Managing teams
+- Pharma biology expertise
+
+Video question:
+""What’s the most valuable engineering decision you made in the last 12 months? Why was it valuable?""
+
+Submit your video here: 
+https://sendspark.com/request/JB/kdoi6s0yugc8xuhe91f8gvg9a9c9njl2
+
+*Applications that submitted a 60-second video answering the question will be given the highest priority. Only our most Senior HR Manager will watch your video and delete it afterward. We review 100% of the videos submitted."
+2026-01-04,Machine Learning Engineer,Mindbody,Brazil,https://www.linkedin.com/jobs/view/4221533508,Mid-Level,"['Python', 'SQL', 'Machine Learning (ML)', 'Desenvolvimento e Deploy de Modelos em Produção', 'MLOps', 'Engenharia de Dados (Data Engineering)', 'Data Pipelines', 'Código Limpo, Testável e Escalável']",N/A,N/A (Presume-se Full-Time),"['Comunicação Excelente (Escrita e Verbal)', 'Curiosidade Intelectual', 'Pró-atividade/Bias for Action', 'Foco em Resultados (Results-Driven)', 'Intuição de Negócios (Business Intuition)', 'Colaboração e Peer Reviews']",[],['Inglês'],"Sobre a vaga
+At Playlist, life's richest moments happen when people step away from screens to move, connect, explore, and play. We're building the definitive platform for intentional living, connecting people with inspiring experiences in fitness, wellness, and beyond. With popular brands like Mindbody and ClassPass, Playlist empowers businesses and individuals, making it effortless for aspirations to become actions. Join us in reshaping technology's role to foster meaningful, real-world connections.
+
+Mindbody equips wellness entrepreneurs with technology to support thriving businesses and create exceptional experiences. Innovation and curiosity drive our culture, connecting businesses and individuals through cutting-edge solutions. Join us if you're passionate about enhancing wellness through technology.
+
+The Role You’ll Play
+
+Develop and deploy production-ready machine learning models across a wide range of applications. 
+Monitor and maintain the performance of models in production environments. 
+Engineer and integrate data from multiple sources to fuel training pipelines, predictions, and business insights. 
+Collaborate with Product Managers to ensure solutions align with customer impact and business goals. 
+Write clean, testable, and scalable code while contributing to shared design documents and engineering discussions. 
+Conduct peer reviews to uphold engineering quality and share knowledge across the team. 
+Stay current with emerging technologies in ML, data engineering, and AI. 
+
+Experience You Bring
+
+2+ years of hands-on experience building and deploying machine learning models in production. 
+Proficiency in Python and SQL, with a strong understanding of data manipulation and model pipelines. 
+Excellent communication skills, both written and verbal, with the ability to explain technical work in a clear and thoughtful way. 
+Intellectual curiosity and a bias for action—you’re excited to explore, experiment, and iterate. 
+Strong business intuition and the ability to balance technical rigor with customer outcomes. 
+A results-driven mindset—you care more about solving the problem than using the flashiest method. 
+A proactive approach to identifying and solving complex challenges—both independently and in collaboration. 
+
+Have we piqued your curiosity?
+
+Sound like the role for you? We’d love to hear from you! Even if you’re not 100% sure about potential fit, we still encourage you to apply. We’re looking for the right person, not the perfect series of checkboxes.
+
+Playlist is an Equal Opportunity Employer. We highly value diversity at our company and encourage people of all different backgrounds, experiences, abilities and perspectives to apply. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or other protected characteristics.
+
+By entering your email and phone number and submitting your application, you consent to receive emails, calls and SMS about your application and other roles at Playlist, including by auto-dialer. Message and data rates may apply. Opt-out or text STOP to cancel at any time. If you are a California resident or reside outside the United States then by submitting your application you confirm that you have read, understood, agree and - where applicable - grant your prior, free, informed and express consent for the processing of your personal information, including sensitive personal information, as described in our California Applicant Privacy Notice or International Applicant Privacy Notice (as applicable).
+
+Note: This description outlines key responsibilities but isn’t intended to cover every task or duty. Additional responsibilities may be assigned as needed to support the team and business goals."
+2026-01-04,AI/ML Engineer Specialist - Freelance Project,"Meridial Marketplace, by Invisible",Brazil,https://www.linkedin.com/jobs/view/4334622167,Mid-level/Experienced (Mínimo de 2 anos),"['Python', 'Pandas', 'NumPy', 'scikit-learn', 'PyTorch', 'TensorFlow', 'Spark', 'Machine Learning (ML)', 'Deep Learning', 'NLP', 'Reinforcement Learning', 'Time Series Analysis', 'Regression Models', 'Classification Models', 'Recommendation Systems', 'Model Deployment (Prototype to Production)', 'Model Evaluation', 'Experimental Design', 'Data Debugging', 'Clean Code']",N/A (Foco em 2+ anos de experiência prática),Contrato (Contractor),"['Colaboração', 'Comunicação com Stakeholders', 'Resolução de Problemas (Ambiguidade)', 'Tradução de Insights Técnicos', 'Proatividade em Inovação']","['GCP', 'AWS', 'Cloud Environments (similar)', 'Databricks (Plus)']",['Inglês'],"Sobre a vaga
+What You’ll Do
+
+Design and deliver machine learning solutions that combine modern research with practical deployment. Working across industries and use cases, contribute to building robust models that power client-facing tools and internal platforms.
+
+Develop End-to-End ML Models: Design, train, and evaluate models across supervised, unsupervised, and reinforcement learning domains tailored to diverse problem areas.
+Collaborate on Real-World Solutions: Work with engineers and data scientists to integrate models into deployable systems operating in production environments.
+Client-Focused Problem Solving: Engage with stakeholders to frame ambiguous problems, explore solution paths, and translate technical insights into practical outcomes.
+Explore, Iterate, Validate: Lead the exploration and analysis of datasets using tools like Pandas, NumPy, and Spark to inform model design and performance evaluation.
+Research-Driven Innovation: Identify opportunities to adapt state-of-the-art methods and productionize them to deliver measurable impact.
+
+Target Profile
+
+2+ years of hands-on experience building and deploying machine learning models using modern techniques.
+Proven ability to take models from prototype to production in Python-based workflows.
+Experience working directly with stakeholders to clarify requirements and inform project outcomes.
+
+Technical Expertise
+
+Strong proficiency in Python and commonly used ML/data libraries (Pandas, NumPy, scikit-learn, PyTorch, TensorFlow, etc).
+Familiarity with different model classes (e.g., regression, classification, recommendation, time series, NLP, reinforcement learning).
+Experience working with large-scale datasets using distributed tools such as Spark.
+Comfort navigating cloud environments (GCP, AWS, or similar); Databricks experience is a plus.
+Solid grasp of experimental design, model evaluation, and data debugging practices.
+Ability to write clean, modular, testable code in collaborative environments.
+
+We offer a pay range of $30+ per hour, with the exact rate determined after evaluating your experience, expertise, and geographic location. Final offer amounts may vary from the pay range listed above. As a contractor you’ll supply a secure computer and high‑speed internet; company‑sponsored benefits such as health insurance and PTO do not apply.
+
+Important
+
+All candidates must pass an interview as part of the contracting process."
+2026-01-04,AI Engineer,Dry Ground AI,Brazil,https://www.linkedin.com/jobs/view/4350965651,"Pleno/Sênior (2+ anos de experiência, com responsabilidades de mentoria e liderança técnica)","['Python', 'TensorFlow', 'PyTorch', 'Scikit-learn', 'Hugging Face Transformers', 'LLMs (Large Language Models)', 'GPT', 'BERT', 'Generative AI', 'Transformer-based architectures', 'LangChain', 'LangGraph', 'LangSmith', 'LangFuse', 'n8n', 'ElevenLabs', 'OpenAI', 'Stable Diffusion', 'REST APIs', 'Processamento de Linguagem Natural (NLP)', 'Automação de workflows', 'Data pipelines (Preprocessing e Feature Engineering)', 'Prompt Engineering', 'Context Engineering', 'MLOps (Model versioning, CI/CD, Monitoring) (Preferencial)', 'Microsoft Copilot Studio (Preferencial)', 'PowerApps (Preferencial)', 'PowerAutomate (Preferencial)', 'Reinforcement learning (Preferencial)', 'GANs (Generative Adversarial Networks) (Preferencial)', 'Edge AI deployments (Preferencial)', 'Apache Spark (Preferencial)', 'Ray (Preferencial)']",N/A (Foco em experiência prática),Remoto (Full-time implícito),"['Versatilidade', 'Pensamento Sistêmico (Systems thinking)', 'Colaboração Interfuncional', 'Liderança Técnica', 'Mentoria', 'Análise de dados', 'Habilidade para traduzir problemas de negócio em soluções técnicas']",['Familiaridade com plataformas de AI/ML baseadas em Nuvem'],[],"Sobre a vaga
+Position Overview
+ We are seeking a versatile and highly skilled AI Engineer to join our fast-growing Full-Stack AI Solutions company. This role blends the expertise of building cutting-edge AI/ML models with the practical know-how of automation and agentic system integrations. You will design, develop, deploy, and optimize intelligent solutions that leverage the power of generative AI, automation platforms, and agent-based systems to enhance client operations, streamline workflows, and deliver measurable results.
+ This is a unique opportunity to work across a diverse range of technologies—from fine-tuning transformer models to building real-world AI-powered automation stacks. If you’re passionate about pushing the boundaries of AI while creating real value through systems thinking and practical implementation, this role is for you.
+ 
+Key Responsibilities
+ AI/ML Development
+Design, build, and deploy machine learning and generative AI models for custom use cases.
+Fine-tune and optimize large language models (e.g., GPT, BERT) using frameworks like Hugging Face Transformers.
+Conduct ongoing research to stay ahead of advancements in AI/ML, including LLMs, generative AI, and transformer-based architectures.
+Develop data pipelines for preprocessing, feature engineering, and model training.
+Test, validate, and monitor model performance in real-world scenarios; iterate for reliability and accuracy.
+Collaborate with cross-functional teams to embed AI into products, platforms, and services.
+Mentor junior engineers and contribute to technical leadership.
+ Automation & Agentic Systems
+Design, implement, and maintain automation workflows using tools such as:
+LangChain, LangGraph, LangSmith, LangFuse n8n, ElevenLabs, and CMS integrations.
+Engineer system-to-system integrations using APIs to enable intelligent process automation.
+Apply prompt and context engineering techniques to enhance the performance of conversational AI tools.
+Implement prompt management and QA processes for agents and assistants.
+Explore and deploy Microsoft Copilot Studio, PowerApps, and PowerAutomate solutions (preferred but not required).
+Continuously evaluate emerging AI and automation tools and assess their applicability in client use cases.
+Collaborate with clients and internal teams to scope, deliver, and maintain agentic and automation solutions aligned with business goals.
+ 
+Qualifications
+ Required
+2+ years of hands-on experience in AI/ML development, including training and deploying models in production.
+Strong programming skills in Python, with proficiency in frameworks such as TensorFlow, PyTorch, Scikit-learn, and Hugging Face Transformers.
+Experience working with AI tools like Langchain, OpenAI, or Stable Diffusion.
+Practical experience with automation platforms and AI agent builders (as listed above).
+Deep understanding of machine learning algorithms, neural networks, and NLP concepts.
+Proficiency in using REST APIs for tool and platform integrations.
+Familiarity with cloud-based AI/ML platforms.
+Strong analytical skills and the ability to translate business problems into technical AI/automation solutions.
+ Preferred
+Experience working with Agentic AI frameworks, voice automation, and prompt tuning systems.
+Exposure to MLOps best practices, including model versioning, CI/CD, and monitoring.
+Knowledge of reinforcement learning, GANs, or edge AI deployments.
+Familiarity with distributed computing frameworks such as Spark or Ray.
+Background in AI agency workflows and client-facing solution delivery.
+ 
+Work Environment & Benefits
+
+Competitive salary and performance-based incentives.
+Flexible work environment: Remote-first.
+Collaborative, innovation-driven culture with a commitment to personal and professional growth.
+Opportunity to work at the forefront of AI innovation across industries and verticals."
+2026-01-04,Machine Learning Engineer,Oowlish,Brazil,https://www.linkedin.com/jobs/view/4329186678,Pleno/Sênior (Especialista),"['Machine Learning', 'Inteligência Artificial (IA)', 'Desenvolvimento de Soluções de IA', 'Modelagem de Machine Learning', 'Validação de Modelos', 'Implementação em Produção (MLOps)', 'Monitoramento de Desempenho de Modelos', 'Versionamento']","Formação em Engenharia, Ciência da Computação, Ciência de Dados ou áreas relacionadas",Remoto,"['Capacidade Analítica', 'Resolução de Problemas', 'Autonomia', 'Orientação a Resultados', 'Proatividade', 'Boa Comunicação', 'Trabalho em Equipe']",[],['Inglês'],"Sobre a vaga
+Venha fazer parte do nosso time na Oowlish!
+
+Está em busca de uma oportunidade para elevar sua carreira ao próximo nível no cenário tecnológico? A Oowlish, uma das empresas de desenvolvimento de software que mais cresce na América Latina, procura por especialistas em tecnologia para reforçar nosso time dinâmico e multicultural.
+
+Integrar a Oowlish significa mais do que apenas ser parte de uma equipe: é abraçar uma cultura inovadora e solidária, colaborando com clientes renomados dos Estados Unidos e Europa em projetos digitais desafiadores. Como uma empresa reconhecida por seu excelente ambiente de trabalho, priorizamos o aprendizado contínuo, o crescimento profissional e o impacto significativo em escala global — tudo isso em conjunto!
+
+Valorizamos a flexibilidade e promovemos um ambiente de trabalho que respeita o equilíbrio entre vida pessoal e profissional. Aqui, você pode gerir seu próprio tempo e espaço, contribuindo para o nosso sucesso coletivo enquanto usufrui de uma rotina que se adapta ao seu estilo de vida. Se você é apaixonado(a) por tecnologia e busca um ambiente de trabalho estimulante e remoto, a Oowlish é o seu lugar!
+
+Sobre a Posição:
+
+Estamos em busca de um(a) Machine Learning Engineer / AI Engineer para desenvolver, implementar e manter soluções de inteligência artificial e aprendizado de máquina alinhadas aos objetivos do negócio. Esta posição é ideal para profissionais que gostam de trabalhar com dados, modelos e aplicações práticas de IA, transformando ideias em soluções reais e escaláveis.
+
+Você atuará em colaboração com equipes de dados, produto e engenharia, participando de todo o ciclo de vida das soluções de machine learning — desde a concepção e modelagem até a implementação em ambientes produtivos e o monitoramento contínuo de desempenho. Procuramos alguém com perfil analítico, autonomia e foco em resultados, capaz de atuar em um ambiente dinâmico e em constante evolução.
+
+Responsabilidades:
+
+
+Projetar, desenvolver e validar modelos de machine learning
+Implementar soluções de IA em ambientes produtivos
+Trabalhar em conjunto com equipes de dados e produto para entender requisitos de negócio
+Monitorar desempenho, qualidade e confiabilidade dos modelos em produção
+Realizar ajustes e melhorias contínuas nos modelos
+Documentar processos, modelos e decisões técnicas
+Garantir boas práticas de desenvolvimento e versionamento
+
+
+
+Requisitos:
+
+
+Formação em Engenharia, Ciência da Computação, Ciência de Dados ou áreas relacionadas
+Experiência prévia com modelos de machine learning ou soluções de IA
+Forte capacidade analítica e de resolução de problemas
+Boa comunicação e habilidade para trabalho em equipe
+Perfil proativo, autônomo e orientado a resultados
+
+
+
+Diferenciais:
+
+
+Experiência com projetos de IA em produção
+Conhecimento de boas práticas de modelagem, validação e monitoramento de modelos
+Inglês intermediário ou avançado
+
+
+
+Benefits & Perks:
+
+Horário flexível;
+
+Remuneração competitiva de acordo com a experiência;
+
+Planos de carreira para possibilitar amplo crescimento na empresa;
+
+Projetos internacionais;
+
+Programa de Inglês Oowlish (Técnico e Conversação);
+
+Oowlish Fitness com Total Pass;
+
+Jogos e Competições;
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
+2026-01-04,Artificial Intelligence Engineer,Foursys,Brazil,https://www.linkedin.com/jobs/view/4343774626,N/A,"['Python', 'Machine Learning', 'Inteligência Artificial (IA)', 'Pandas', 'Flask', 'RAG (Retrieval-Augmented Generation)', 'ETL', 'Integração de dados', 'MLflow', 'OpenTelemetry', 'LangGraph', 'Scikit-learn', 'Visual Basic (Diferencial)', 'Metodologia Ágil', 'Scrum']",N/A,Híbrido,"['Boa comunicação', 'Trabalho em equipe', 'Proatividade', 'Agilidade', 'Capacidade analítica', 'Senso de responsabilidade', 'Facilidade para atuar em ambientes colaborativos e dinâmicos']",[],[],"Sobre a vaga
+A Foursys é um time apaixonado por inovação, design e transformação digital. Somos globais, somos GPTW.
+
+Na Foursys, celebramos a diversidade e acreditamos que são as diferentes ideias e perspectivas que nos enriquecem. Portanto, sua cor, religião, gênero, raça, nacionalidade, idade, origem, identidade de gênero, deficiência ou orientação sexual não são barreiras para se juntar à nossa equipe.
+#VemSerFoursys!
+
+Todas as nossas vagas estão abertas para Pessoas com Deficiência (PCD). Caso você se enquadre ou conheça alguém com o perfil, a Foursys é a empresa ideal!
+
+Que tal se juntar a nós e se tornar um(a) #FourTalent?
+
+Habilidades Técnicas:
+Python para desenvolvimento de soluções em IA;
+Machine Learning;
+Inteligência Artificial aplicada a produtos e serviços;
+Pandas para manipulação e análise de dados;
+Flask para desenvolvimento de APIs;
+RAG (Retrieval-Augmented Generation);
+ETL e Integração de dados;
+MLflow para versionamento e rastreabilidade de modelos;
+OpenTelemetry para observabilidade;
+LangGraph;
+Scikit-learn;
+Visual Basic (diferencial).
+
+Habilidades Comportamentais:
+
+Boa comunicação e trabalho em equipe;
+Proatividade e agilidade;
+Capacidade analítica e senso de responsabilidade;
+Facilidade para atuar em ambientes colaborativos e dinâmicos.
+
+Metodologias:
+
+Ágil / Scrum.
+
+Modelo de Trabalho
+
+Híbrido – 3 dias presenciais por semana
+📍 Local: São Paulo – SP
+
+Benefícios | Clube da Four
+
+Assistência médica;
+VR e VA flexível;
+Gympass e Wellz;
+Parceria com o SESC;
+Descontos em restaurantes;
+Descontos em cursos técnicos e de ensino superior;
+Descontos em escolas e plataformas de idiomas.
+
+E aí, aceita o desafio?
+
+Então conclua sua candidatura e #VemSerFoursys!
+Boa sorte!"
+2026-01-04,Senior Data Scientist,Teramind,Brazil,https://www.linkedin.com/jobs/view/4348482735,Senior Data Scientist,"['Python', 'SQL', 'TensorFlow', 'PyTorch', 'Scikit-learn', 'XGBoost', 'Spark', 'BigQuery', 'ML Pipelines (End-to-End)', 'Modelagem de Comportamento', 'Predição Comportamental', 'Detecção de Anomalias', 'Risk Scoring', 'Transformer Architectures', 'Otimização de Modelos (Latência, Eficiência)', 'Estatística', 'Inferência Causal', 'Design Experimental', 'A/B Testing']","Mestrado em disciplina quantitativa (Estatística, Engenharia, Ciência da Computação) ou experiência equivalente",Remoto,"['Inovação', 'Resourcefulness', 'Autonomia', 'Colaboração', 'Adaptabilidade', 'Experimentação Rápida', 'Resolução de Ambiguidade', 'Parceria com Produto e Engenharia']",[],['Inglês'],"Sobre a vaga
+About Teramind
+
+Teramind is the leading platform for user behavior analytics, serving multiple use cases from insider risk mitigation to business process optimization. With our comprehensive suite of solutions, organizations gain unprecedented visibility into user activities while enhancing security, optimizing productivity, and ensuring compliance. Trusted by Fortune 500 companies and businesses of all sizes across industries, our innovative platform helps organizations protect sensitive data, maximize workforce performance, and create safer, more efficient digital workplaces. Through real-time monitoring and advanced analytics, we enable businesses to safeguard their most sensitive information while optimizing employee productivity in both in-office and remote work environments.
+
+Our Core Values
+
+At Teramind, our values drive everything we do. We embrace innovation as a fundamental principle, constantly pushing boundaries to improve our products, streamline processes, and enhance customer experiences. We foster resourcefulness by empowering our team members with the autonomy and confidence to solve problems independently while providing collaborative support when needed. As a globally inclusive organization, we celebrate diversity and create an adaptable work culture where respect and collaboration thrive across our international teams. Above all, we are committed to excellence, delivering the highest quality in every aspect of our work and consistently exceeding expectations in service to our clients and each other.
+
+About The Role
+
+Teramind is on a mission to reinvent how organizations understand work. With millions of behavioral signals flowing through our platform, we're unlocking a new era of intelligent workforce analytics - from predictive insights to behavior modeling and ML-powered decision-making. We're building a brand-new data science organization to make this vision real. And we're hiring a Senior Data Scientist who wants to build the models, pipelines, and intelligent systems that power the future of analytics at Teramind. If you thrive at the intersection of deep technical work, rapid experimentation, and real product impact - this is your role.
+
+What You’ll Do
+
+• Design and implement ML models for behavior prediction, anomaly detection, and risk scoring
+• Develop and fine-tune transformer-based models
+• Optimize models for production deployment—balancing accuracy, latency, and resource efficiency 
+• Build end-to-end pipelines from raw behavioral signals to production-ready features
+• Partner with product and engineering to translate business problems into data science solutions
+• Run rigorous experiments—A/B tests, causal inference, statistical validation—to measure real impact
+• Prototype rapidly, iterate based on customer feedback, and ship models that scale
+• Contribute to the technical foundations and best practices of a growing DS function
+
+What You Bring
+
+• Deep hands-on expertise in Python, SQL, and ML framework (TensorFlow, PyTorch, Scikit-learn, XGBoost)
+• 5+ years of experience shipping ML models to production with measurable product or business impact
+• Strong fundamentals in statistics, causal inference, and experimental design
+• Experience with transformer architectures
+• Familiarity with model optimization for production constraints
+• Comfort working in ambiguity—scoping problems, finding data, and driving to solutions independently
+• Experience with large-scale data processing (Spark, BigQuery, or similar) is a plus
+• Master's degree in a quantitative discipline such as Statistics, Engineering, Computer Science, or equivalent practical experience
+
+
+Benefits
+
+This is a remote job. Work from anywhere! We’ve been thriving as a fully-remote team since 2014. To us, remote work means flexibility and having truly diverse, global teams.
+
+Additionally:
+
+• Collaboration with a forward-thinking team where new ideas come to life, experience is valued, and talent is incubated.
+• Competitive salary
+• Career growth opportunities
+• Flexible paid time off
+• Laptop reimbursement
+• Ongoing training and development opportunities
+
+About our recruitment process
+
+We don’t expect a perfect fit for every requirement we’ve outlined. If you can see yourself contributing to the team, we want to hear your story. You can expect up to 3 interviews. In some scenarios, we’re able to streamline the process to have minimal rounds. Director-level roles and above should expect a more thorough process, with multiple rounds of interviews.
+
+All roles require reference and background checks
+
+Teramind is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration without regard to race, age, religion, color, marital status, national origin, gender, gender identity or expression, sexual orientation, disability, or veteran status.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us."
+2026-01-04,DATA SCIENTIST PL,Stone,Brazil,https://www.linkedin.com/jobs/view/4348862746,Data Scientist (Requer experiência prévia em Análise/Ciência de Dados e Modelagem),"['Python', 'SQL', 'Pandas', 'Scikit-learn', 'XGBoost', 'Modelagem Estatística', 'Algoritmos de Aprendizado de Máquina', 'Treinamento Supervisionado', 'Treinamento Não Supervisionado', 'Engenharia e Seleção de Features', 'Análise Univariada/Bivariada/Multivariada', 'Redução de Dimensionalidade', 'Feature Scaling', 'Balanceamento de Dados', 'Tunning de Hiperparâmetros', 'Avaliação e Comparação de Modelos', 'Testes A/B (Experimentos)', 'Detecção de Fraudes', 'Detecção de Anomalias', 'Redes Neurais (Diferencial)', 'NLP (Diferencial)', 'Sistemas de Recomendação (Diferencial)', 'Séries Temporais (Diferencial)']",N/A,N/A,"['Espírito de Dono (Own It)', 'Autonomia', 'Proatividade', 'Perfil Analítico Forte', 'Capacidade Investigativa', 'Data Storytelling (Transformar análises em narrativas claras)', 'Colaboração (Team Play)', 'Transparência (No Bullshit)', 'Orientação ao Cliente']","['AWS', 'GCP', 'Ecossistemas de Big Data (Ex: Databricks, Spark)']",[],"Sobre a vaga
+Nossa cultura:
+Por aqui, vivemos nossa cultura no dia a dia, guiados por esses 5 pilares:
+
+⚡Own It: Ter espírito de dono te faz conquistar a liberdade. Valorizamos a autonomia e a proatividade, somos responsáveis pelo o que entregamos e queremos sempre evoluir o nosso negócio.
+
+🎢Live the Ride: Faça. Feito é melhor que perfeito. Aprendemos com os erros e encaramos desafios como oportunidades de aprendizado.
+
+🎤No Bullshit: Agir com simplicidade. Somos pessoas práticas, sinceras e gostamos de feedbacks. Sabemos que às vezes vamos errar e contamos com essa transparência para evoluirmos.
+
+🤝Team Play: Se quer ir rápido, vá sozinho(a). Se quer ir longe, trabalhe em equipe. É sempre possível aprender com as outras pessoas e a colaboração é a chave do sucesso.
+
+💚The Reason: O cliente não tem razão, ele é a razão. Nos motivamos a enxergar o impacto do nosso trabalho na vida do cliente, é vendo que melhoramos a vida dele que sabemos que fizemos uma boa entrega.
+
+O time de Prevenção a Fraudes:
+
+A área de Prevenção a Fraudes é responsável por proteger os nossos clientes e nossa empresa contra riscos associados à fraude nas mais diversas frentes, desempenhando um papel central na identificação e mitigação de potenciais ameaças. É uma área multidisciplinar, composta por times de operações, produto, análise e ciência de dados, e é formada por pessoas investigativas e com forte perfil analítico. Temos o propósito de desenvolver mecanismos que permitam reduzir a possível perda financeira gerada por fraude ou risco de negócio, buscando também a melhor relação risco-retorno entre decisões automáticas (modelos e regras) e decisões da mesa de operações. O time de prevenção a fraudes KYC atua diretamente nestes dois pilares. No processo de credenciamento, verificamos identidades, avaliamos perfis de risco e monitoramos constantemente para detectar atividades suspeitas por meio de análises extensiva de dados. Além disso, também analisamos continuamente o ciclo de vida do cliente, buscando garantir que o o cliente é ele mesmo, prezando pelo bom uso de nossos produtos.
+
+
+Como é Ser Uma Pessoa DATA SCIENTIST:
+Buscamos uma pessoa para se juntar ao time de Estratégia e Modelagem, com a missão de usar ciência de dados para construir barreiras inteligentes contra fraudadores no nosso processo de credenciamento (KYC) e ao longo de todo o ciclo de vida do cliente. Seu trabalho será essencial para garantir um crescimento seguro, combinando análises profundas e modelagem preditiva para tomar decisões de risco-retorno mais eficientes, sempre buscando a melhor experiência para os bons clientes. Algumas das atividades do dia a dia incluem:
+Analisar e explorar grandes volumes de dados (internos e externos) para descobrir padrões de fraude, identificar vulnerabilidades e gerar insights para novas estratégias de prevenção;
+Desenvolver, implementar e otimizar modelos estatísticos e algoritmos de aprendizado de máquina para prever, detectar e mitigar atividades fraudulentas;
+Formular e validar hipóteses sobre possíveis vetores de ataque, participando da criação e análise de experimentos (como testes A/B) para medir o impacto de novas regras e modelos;
+Identificar e avaliar continuamente os potenciais pontos de melhoria nos processos de KYC e riscos associados a diferentes tipos de atividades de clientes, desenvolvendo estratégias para mitigá-los; - Formulação de hipóteses sobre possíveis cenários de fraude, condução de experimentos controlados para validar e iterar sobre as estratégias de prevenção;
+Colaborar ativamente com analistas de risco, engenheiros de dados, desenvolvedores e gerentes de produto para construir e integrar soluções de ponta a ponta;
+Acompanhamento contínuo das tendências e padrões de fraude emergentes, adaptando as estratégias conforme necessário.
+
+O que esperamos de você:
+
+Experiência prévia em análise / ciência de dados;
+Experiência em times de estratégia / inteligência de prevenção a fraudes ou áreas correlatas;
+Conhecimento consolidado em fundamentos de estatística, inferência e modelagem matemática;
+Habilidade de transformar análises complexas em narrativas claras e acionáveis (data storytelling) para apresentar resultados e auxiliar na tomada de decisão;
+Capaz de desenvolver modelos típicos de machine learning utilizando técnicas de treinamento supervisionado e não supervisionado, com conhecimento de suas etapas (engenharia e seleção de features, análise univariada/bivariada/multivariada, redução de dimensionalidade, feature scaling, balanceamento de dados, tunning de hiperparâmetros, etc.);
+Capaz de utilizar técnicas de avaliação e comparação de modelos;
+Proficiência em Python para análise de dados e modelagem (ex: Pandas, Scikit-learn, XGBoost) e SQL para manipulação de grandes volumes de dados;
+
+ O Que aumentam suas chances: 
+
+Experiência específica com prevenção a fraudes no processo de credenciamento/KYC em adquirentes, fintechs, bancos ou ecommerces;
+Especialização em temas específicos da área de machine learning (redes neurais, NLP, sistemas de recomendação, séries temporais, detecção de anomalias, clusterização, etc.);
+Experiência com ecossistemas de Big Data e plataformas de nuvem (ex: Databricks, Spark, AWS, GCP).
+
+Nossos benefícios:
+🩺 Plano de Saúde e Odontológico
+
+🏥Hospital Virtual Verde disponível 24 horas por dia, 7 dias por semana, de forma rápida e prática
+
+🥗 Vale Refeição e/ou Vale Alimentação
+
+🌴 Convênio SESC
+
+🕗 Horário flexível
+
+✏ Benefício Educação - Plataforma interna com acesso a diversos livros, podcasts, treinamentos e vídeo aulas visando o autodesenvolvimento (Studa e Biblioteca StoneCo)
+
+💪 Gympass
+
+👶 Auxílio Creche - para crianças até 5 anos e 11 meses
+
+💰 Salário Fixo + PLR (quando preenchidos os requisitos)
+
+💚 Seguro de Vida
+
+🚗Vale Transporte (exclusivo para vagas presenciais)
+
+Etapas do Processo Seletivo:
+✍Inscrição: Aqui você começa a sua jornada conosco. Fique tranquilo(a), nosso time analisará as informações do seu perfil e entrará em contato em breve. Boa sorte!
+
+📞Entrevistas com o time de People: Este é o momento de nos conhecermos! Você terá um papo inicial com nosso time de recrutamento, com o objetivo de conhecer nossa cultura, estrutura e o desafio que está sendo proposto.
+
+🎯Avaliação Técnica: Nesta etapa vamos nos aprofundar nas suas hard skills! Geralmente essa avaliação é composta por dois papos ou um papo mais o desafio, com o objetivo de avaliar habilidades e competências técnicas específicas para a vaga. Além de te apresentar possíveis pares e liderança.
+
+✅Check de Cultura: Nossa cultura é muito importante e está sempre presente no dia a dia! Aqui, você terá um papo com uma das nossas pessoas guardiãs da cultura, com o objetivo de nos conhecer e garantir que nossas crenças, nosso jeito de pensar e nossa visão de futuro estão alinhadas com o que você acredita e busca vivenciar.
+
+🏁Feedback: Uma de nossas forças é a franqueza. Por isso, independente do resultado, iremos compartilhá-lo com você e alinhar os próximos passos.
+
+
+E aí? Curtiu? Então, não deixa de se inscrever e #VemSerStone 💚🚀
+
+Aqui na Stone Co., valorizamos e procuramos as melhores pessoas para nos ajudar a melhorar a vida das pessoas empreendedoras do Brasil. Nosso sonho é do tamanho do universo e, se você se identifica com o nosso propósito, venha construí-lo com a gente! Caso queira saber mais:
+
+
+
+Confira nossa trilha de carreira para o time de tecnologia, a Star Trail Tech.
+Vem conhecer nosso time e aprender muito no nosso canal do Youtube.
+Temos vários artigos no Medium.
+Não deixe de dar uma conferida no nosso Github.
+Confira aqui as diretrizes do nosso Código de Ética.
+E pra ficar por dentro de todas as novidades, é só nos seguir no Twitter.
+
+
+
+
+*Além das vagas afirmativas, todas as vagas Stone também são destinadas a pessoas com deficiência."
+2026-01-04,Senior Data Scientist,Tata Consultancy Services,Brazil,https://www.linkedin.com/jobs/view/4346790735,Senior Data Scientist,"['Python', 'Machine Learning', 'Deep Learning', 'GenAI', 'LLMs', 'Prompt Engineering', 'multimodal models', 'TensorFlow', 'PyTorch', 'Pandas', 'NumPy', 'Scikit-learn', 'SQL', 'bancos de dados relacionais', 'bancos de dados não-relacionais', 'MLOps (Best Practices)', 'CI/CD', 'Data Pipelines', 'manuseio de grandes volumes de dados']","Bacharelado em Ciência da Computação, Engenharia, Estatística, Matemática, ou áreas relacionadas.",N/A,"['Liderança Técnica', 'Mentoria de Equipe', 'Colaboração', 'Tradução de necessidades de negócio (Stakeholder collaboration)', 'Documentação']","['AWS', 'S3', 'Lambda', 'SageMaker', 'EC2', 'IAM']",[],"Sobre a vaga
+Come to one of the biggest IT Services companies in the world!! Here you can transform your career! 
+ Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. 
+ We are looking for Senior Data Scientist who wants to learn and transform his career. 
+ In this role you will: (responsibilities) 
+ SAFe We are looking for a Senior Data Scientist with extensive experience in Python, Machine Learning, and advanced knowledge of AWS components to lead data analysis projects and develop scalable solutions. Technologies such as Deep Learning and GenAI will be considered advantages.
+Experience with Deep Learning (TensorFlow, PyTorch). Knowledge in GenAI (LLMs, Prompt Engineering, APIs such as OpenAI, HuggingFace). Experience with multimodal models.
+Education: Bachelor's degree in Computer Science, Engineering, Statistics, Mathematics, or related fields. 
+ Experience: 
+ Advanced programming in Python (Pandas, NumPy, Scikit-learn). 
+ Development and implementation of Machine Learning models at scale. 
+ Solid experience with AWS components (S3, Lambda, SageMaker, EC2, IAM). 
+ Experience in technical leadership or team mentoring.
+Additional skills:
+ Handling large volumes of data.
+ Knowledge of SQL and relational/non-relational databases.
+ Best practices in MLOps and CI/CD for models.
+ Lead the design, development, and implementation of Machine Learning models for complex applications.
+ Build robust and scalable data pipelines, ensuring quality and performance.
+ Define architecture and integrate solutions with AWS services (S3, Lambda, SageMaker, EC2, IAM).
+ Act as a technical reference, guiding teams and ensuring best practices.
+ Collaborate with stakeholders to translate business needs into data-driven solutions.
+ Document processes and promote standards for versioning, testing, and deployment.
+Python, Machine Learning; components AWS
+What can you expect from us? 
+ • Professional development and constant evolution of your skills, always in line with your interests. 
+• Opportunities to work outside Brazil 
+• A collaborative, diverse and innovative environment that encourages teamwork. 
+ What do we offer? 
+ TCS Benefits – Brazil: 
+Health insurance 
+Dental Plan 
+Life insurance 
+Transportation vouchers 
+Meal/Food Voucher 
+Childcare assistance 
+Gympass 
+TCS Cares – free 0800 that provides psychological assistance (24 hrs/day), legal, social and financial assistance to associates 
+Partnership with SESC 
+Reimbursement of Certifications 
+Free TCS Learning Portal – Online courses and live training 
+International experience opportunity 
+Discount Partnership with Universities and Language Schools 
+Bring Your Buddy – By referring people you become eligible to receive a bonus for each hire 
+TCS Gems – Recognition for performance 
+Xcelerate – Free Mentoring Career Platform 
+ At TATA Consultancy Services we promote an inclusive culture, we always work for equity. This applies to Gender, People with Disabilities, LGBTQIA+, Religion, Race, Ethnicity. All our opportunities are based on these principles. We think of different actions of inclusion and social responsibility, in order to build a TCS that respects individuality. Come to be a TCSer! 
+
+#Buildingonbelief 
+
+ID: 10470412"
+2026-01-04,Data Scientist,Ascendion,Brazil,https://www.linkedin.com/jobs/view/4328096527,Senior (6-7 years experience),"['Data Science', 'Machine Learning (ML)', 'Artificial Intelligence (AI)', 'LLMs', 'Generative AI', 'Python', 'LLM Output Evaluation (Manual/Automated)', 'LLM-as-a-Judge', 'LLM-as-a-Jury', 'ChatGPT', 'Claude', 'Mistral', 'AI Evaluation Metrics', 'Quality Frameworks', 'LLMOps', 'AI Monitoring']",N/A,Contract,"['Strong communication skills', 'collaborative mindset', 'Interest in AI safety', 'reliability', 'responsible AI processes']","['AWS', 'Lambda', 'EC2', 'S3', 'SQS', 'SNS']",[],"Sobre a vaga
+About Ascendion
+Ascendion is a full-service digital engineering solutions company. We make and manage software platforms and products that power growth and deliver captivating experiences to consumers and employees. Our engineering, cloud, data, experience design, and talent solution capabilities accelerate transformation and impact for enterprise clients. Headquartered in New Jersey, our workforce of 6,000+ Ascenders delivers solutions from around the globe. Ascendion is built differently to engineer the next.
+
+Ascendion | Engineering to elevate life
+
+We have a culture built on opportunity, inclusion, and a spirit of partnership. Come, change the world with us:
+Build the coolest tech for the world’s leading brands
+Solve complex problems – and learn new skills
+Experience the power of transforming digital engineering for Fortune 500 clients
+Master your craft with leading training programs and hands-on experience.
+
+Experience a community of change-makers!
+Join a culture of high-performing innovators with endless ideas and a passion for tech. Our culture is the fabric of our company, and it is what makes us unique and diverse. The way we share ideas, learning, experiences, successes, and joy allows everyone to be their best at Ascendion.
+
+About the Role
+
+Job Title: Data Scientist
+Contract Type: Contract in Brazil
+Office model - Remote
+
+We’re looking for a Senior Data Scientist focused on evaluating LLM-based products. The role is all about making sure AI outputs are high-quality, accurate, safe, and useful, using a mix of human evaluation and LLM-based evaluation approaches (LLM-as-a-Judge and LLM-as-a-Jury). You’ll work closely with SMEs, product, and engineering teams to build and scale evaluation frameworks that help improve AI products. 
+
+What You’ll Do:
+
+Review and evaluate LLM outputs for quality, accuracy, safety, and relevance.
+Work with SMEs on manual and human-in-the-loop evaluations.
+Use LLMs to evaluate other LLMs (LLM-as-a-Judge / LLM-as-a-Jury) 
+Define simple evaluation criteria and scoring guidelines.
+Analyze results and share clear feedback with product and engineering teams.
+Help improve evaluation processes and best practices over time.
+
+What We’re Looking For:
+
+6-7 years of experience in Data Science, ML, or AI roles.
+Strong experience with LLMs and Generative AI.
+AWS: Core AWS - Lambda, EC2, S3, SQS, SNS, etc. 
+Hands-on experience evaluating LLM outputs (manual or automated).
+Solid Python skills for analysis and automation.
+Experience with LLMs like ChatGPT, Claude, Mistral, or similar.
+Strong communication skills and a collaborative mindset.
+
+Nice to Haves:
+
+Experience with AI evaluation metrics or quality frameworks.
+Familiarity with LLMOps or AI monitoring.
+Interest in AI safety, reliability, and responsible AI processes."
+2026-01-04,Data Scientist,IFIT Solutions,Brazil,https://www.linkedin.com/jobs/view/4346569953,Sênior,"['PySpark (Avançado)', 'Estatística Aplicada', 'A/B Testing', 'Experiment Design', 'Modular Coding', 'Scalable Code']",N/A,"PJ, Remoto, Long Term","['Comunicação', 'Capacidade de Articulação', 'Proatividade', 'Business Acumen (Tradeoffs)']",[],['Inglês (Avançado)'],"Sobre a vaga
+Currently looking for a Data Scientist with experience in :
+
+Advanced pyspark skills with experience building modular code, must have the ability to build scalable code, rather than one-off analyses and experiment notebooks
+Professional experience using statistics in a business setting, measuring AB tests with code, not via a tool. Should be able to identify missing steps in a measurement approach or experiment design, articulate the gaps, and make a proposal to his/her team members. Also should be able to recognize the tradeoffs between ideal experiment design and the realities of launching an experiment in the business context.
+Advanced English
+Remote
+Long Term
+PJ contract
+
+Send cv in english"
+2026-01-04,Especialista de Inteligência de Dados,Privalia,Brazil,https://www.linkedin.com/jobs/view/4350692627,Especialista,"['Power BI', 'Tableau', 'Google Data Studio', 'SQL', 'Banco de dados relacionais', 'Python', 'R', 'Excel avançado', 'Google Sheets avançado', 'Big Data', 'Green Belt', 'Lean Six Sigma', 'KPIs', 'OKRs', 'Sistemas ERP/Produção', 'Automação de processos de dados', 'Governança de dados']","Ensino superior completo (Administração, Engenharia, Estatística, Economia, Ciência de Dados). Pós-graduação/MBA em Business Intelligence, Analytics ou Gestão de Operações (Diferencial).",Presencial,"['Pensamento Estratégico', 'Comunicação e Parceria Interfuncional', 'Foco em Eficiência Operacional', 'Apoio à Tomada de Decisão']",[],[],"Sobre a vaga
+Como Especialista de Inteligência de Dados você será responsável pela atuação de forma estratégica na gestão e análise de dados da área de Produção. 
+Será responsável por transformar informações em insights acionáveis, garantindo maior eficiência operacional, apoio à tomada de decisão e desenvolvimento de soluções que fortaleçam a inteligência do negócio.
+
+Responsabilidades e atribuições: 
+Estruturar, consolidar e analisar dados de performance da área de Produção;
+Desenvolver relatórios, dashboards e painéis de acompanhamento (KPIs e OKRs);
+Apoiar a gestão com insights estratégicos para melhoria de processos e aumento de produtividade;
+Garantir a qualidade, confiabilidade e governança das informações gerenciais;
+Mapear indicadores críticos, propor planos de ação e acompanhar evolução de resultados;
+Automatizar processos de coleta, tratamento e disponibilização de dados;
+Atuar em parceria com diferentes áreas para integrar informações e alinhar estratégias.
+
+Requisitos e qualificações: 
+Ensino superior completo em Administração, Engenharia, Estatística, Economia, Ciência de Dados ou áreas correlatas;
+Pós-graduação ou MBA em Business Intelligence, Analytics ou Gestão de Operações será considerado diferencial;
+Certificações em Power BI, Tableau ou Google Data Studio (Diferencial);
+Certificação em SQL, Big Data, Data Analytics ou afins (Diferencial);
+Green Belt/Lean Six Sigma para melhoria de processos (Diferencial);
+Domínio em ferramentas de visualização de dados (ex.: Power BI, Tableau, Looker ou similares);
+Excel/Google Sheets avançado;
+Conhecimento em SQL e banco de dados relacionais;
+Desejável experiência com Python ou R para análise de dados;
+Familiaridade com sistemas de ERP/Produção será diferencial.
+
+O que oferecemos?
+Além de um clima descontraído, sem política de dress code e total open space, compartilhamos de alguns outros benefícios que trazem qualidade de vida e muita felicidade:
+
+🩺Assistência Médica
+Saúde em primeiro lugar! Oferecemos um plano médico completo pra você e seus dependentes se sentirem cuidados e tranquilos.
+
+🪥 Assistência Odontológica
+Sorriso bonito e saudável? Temos! Com acesso fácil a cuidados odontológicos de qualidade.
+
+🍽️ Vale Refeição ou Alimentação
+Você escolhe: restaurante ou mercado. O importante é ter liberdade e equilíbrio na sua alimentação.
+
+🚐 Vale Transporte
+Facilitamos sua mobilidade para que você chegue ao trabalho com tranquilidade.
+
+🛍️ Desconto Privali@
+Descontos especiais em marcas e produtos incríveis. Porque você também merece aproveitar!
+
+🎁 VP Club
+Nosso clube de vantagens exclusivo, com benefícios pensados especialmente pra quem é #Pri
+
+🏋️ Wellhub
+Acesso a academias, estúdios e atividades físicas. Porque cuidar do corpo também é essencial.
+
+🧘 Zenklub
+Saúde emocional importa — e muito. Conte com apoio psicológico e conteúdos de bem-estar sempre que precisar.
+
+🎉 Happy Day (folga no aniversário)
+Seu dia, do seu jeito. Aqui, aniversário é com a tarde livre pra comemorar como quiser.
+
+🐾 Pet Day
+Em datas especiais, seu pet é nosso convidado! Um dia leve e cheio de carinho no escritório.
+
+🍻 Happy Friday
+Encerramos a semana com leveza e integração. Um momento para relaxar e se conectar com o time.
+
+🧖Serviços no ambiente de trabalho
+Manicure, snacks, barbeiro, quick massage, ginástica laboral, frutas, food truck (o famoso Corujinha!) e muito mais pra deixar sua rotina mais prática e gostosa.
+
+O que você está esperando para se juntar a nós?
+Challenge yourself! #TodayCanBeSpecial"
+2026-01-04,Engenheiro de Dados - Remoto,Getronics,Brazil,https://www.linkedin.com/jobs/view/4347474422,N/A,"['Programação', 'Tratamento de Dados', 'Python', 'PySpark', 'SQL', 'HUE', 'Hive', 'Spark', 'SparkML', 'NIFI', 'DB2', 'MySQL', 'Oracle', 'Dbeaver', 'Modelagem de Dados', 'Erwin', 'Git']",N/A,Remoto,[],[],[],"Sobre a vaga
+A Getronics é líder global em soluções de tecnologia, com uma equipe de mais de 4.000 colegas em 22 países, fornecendo serviços abrangentes de ponta a ponta em todo o mundo. Temos o compromisso de oferecer um atendimento excepcional ao cliente, para permitir que eles se concentrem em seus principais pontos fortes, enquanto confiam suas necessidades de TI à Getronics. Temos uma oportunidade incrível para você se juntar à nossa equipe, na seguinte vaga: Engenheiro de Dados - Remoto.
+
+O que oferecemos a você:
+- Assistência médica sem desconto para titulares
+- Assistência odontológica sem desconto para titulares
+- Cartão flex tanto para alimentação quanto refeição
+- Auxílio home office para vaga remota
+- Vale transporte para posições presenciais ou híbridas
+- Auxílio creche
+- Seguro de vida
+- Parceria com instituições de ensino
+- Parceria com escolas de idiomas
+- Programa de subsídio para aulas de inglês
+- Programa de indicações: prêmio para indicações bem-sucedidas
+- Licença maternidade estendida de 180 dias e a licença paternidade de 20 dias
+- Treinamento completo fornecido como parte de um processo de indução robusto, incluindo oportunidades de desenvolvimento contínuo com nossa plataforma de aprendizado online NorthStar, LinkedIn Learning e Udemy, que possui mais de 80.000 cursos disponíveis
+- GetVibes - nosso programa de escuta ativa que nos permite conectar e ouvir feedback de todos os colegas, e como empresa, trabalhamos juntos para elaborar planos de ação para melhorar e desenvolver continuamente a Getronics!
+
+O que esperar desta posição:
+Projeto de desenvolvimento e melhorias em sistemas bancários.
+
+O que esperamos de você:
+Conhecimentos:
+• Programação;
+• Tratamento de Dados.
+Linguagens:
+• Python;
+• PySpark;
+• SQL.
+Ferramentas:
+Big Data:
+• HUE;
+• Hive;
+• Spark (SparkML);
+• NIFI.
+Banco de Dados:
+• DB2;
+• MySQL;
+• Oracle;
+• Dbeaver (Ferramenta de Consulta).
+• Modelagem de Dados (Erwin)
+• Versionamento de código (Git)
+
+O que fazer em seguida:
+Caso você seja a pessoa que estamos procurando, aguarde nosso contato para te conhecermos melhor e siga as instruções durante o processo seletivo. Se você gostaria de fazer alguma pergunta sobre nossas vagas, sobre a Getronics como empresa ou qualquer outra coisa, por favor, não hesite em entrar em contato. A equipe de RH estará disponível no e-mail recrutamento@getronics.com."
