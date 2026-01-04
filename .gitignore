@@ -1,0 +1,16 @@
+# Senhas e Segredos (CRÍTICO)
+.env
+config.json
+
+# Python e Venv
+venv/
+__pycache__/
+*.pyc
+
+# Arquivos de Sistema
+.DS_Store
+.vscode/
+
+# Logs e Lixo
+*.log
+chromedriver
