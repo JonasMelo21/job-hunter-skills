@@ -1,0 +1,10 @@
+services:
+  job-hunter-app:
+    build: .
+    ports:
+      - "7860:7860"
+    volumes:
+      - .:/app
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+    command: streamlit run app.py --server.port=7860 --server.address=0.0.0.0
